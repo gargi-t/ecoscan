@@ -1,1 +1,33 @@
-
+barcode,product_name,brand,category,origin_country,packaging_text,materials_text,labels_text
+8901111000011,Classic Salted Chips,ValuePack Co.,Packaged Snacks,India,plastic multilayer film,potato palm oil salt,
+8901111000028,Baked Veggie Crisps,GreenLeaf Foods,Packaged Snacks,India,recyclable cardboard box,organic potato sunflower oil sea salt,organic
+8901111000035,Chocolate Wafer Bar,SweetTree,Packaged Snacks,Germany,plastic wrapper foil,wheat flour cocoa sugar palm oil,
+8901111000042,Dark Chocolate Bar 70%,PureHarvest,Packaged Snacks,Switzerland,recyclable paper wrap,organic cocoa fair trade cocoa butter cane sugar,fair trade organic
+8901111000059,Instant Noodles,QuickBite,Packaged Snacks,China,plastic film multilayer,wheat flour palm oil monosodium glutamate,
+8901111000066,Roasted Almonds,NatureFirst,Packaged Snacks,United States,glass jar reusable,organic almonds sea salt,organic non-gmo
+8901111000073,Muesli Breakfast Mix,FreshFields,Cereal,India,recyclable cardboard box compostable liner,oats dried fruit nuts,rainforest alliance
+8901111000080,Sugary Cereal Rings,KidsFuel,Cereal,United States,plastic bag inside cardboard box,corn sugar artificial flavoring,
+8901112000011,Cola Soft Drink,FizzCo,Beverages,India,single-use plastic bottle,carbonated water sugar caramel colour,
+8901112000028,Sparkling Mineral Water,ClearWave,Beverages,France,glass bottle reusable,natural mineral water,
+8901112000035,Organic Orange Juice,PureHarvest,Beverages,India,recycled cardboard tetra pack,organic orange juice,organic
+8901112000042,Energy Drink,ChargeUp,Beverages,Austria,aluminium can recyclable,carbonated water caffeine taurine sugar,
+8901112000059,Oat Milk,GreenLeaf Foods,Beverages,India,recyclable carton,organic oats water sunflower oil,organic plant based
+8901112000066,Instant Coffee,MorningBrew,Beverages,Vietnam,plastic pouch multilayer,robusta coffee,
+8901113000011,Moisturising Body Wash,PureHarvest,Personal Care,India,single-use plastic bottle,synthetic fragrance sulfates water,
+8901113000028,Solid Shampoo Bar,EcoThreads,Personal Care,India,compostable paper wrap,natural saponified oils essential oils,cruelty free vegan
+8901113000035,Bamboo Toothbrush,NatureFirst,Personal Care,Vietnam,recyclable paper box,bamboo handle nylon bristle,biodegradable handle
+8901113000042,Plastic Toothbrush 4-Pack,ValuePack Co.,Personal Care,China,plastic blister pack,abs plastic nylon bristle,
+8901113000059,Herbal Face Wash,UrbanBasics,Personal Care,India,plastic tube,natural herbal extracts,natural
+8901113000066,Deodorant Aerosol Spray,FreshFields,Personal Care,Germany,aerosol can non-recyclable propellant,synthetic fragrance aluminum compounds,
+8901114000011,Organic Cotton T-Shirt,EcoThreads,Clothing,India,recyclable paper tag cardboard,100 percent organic cotton,organic fair trade
+8901114000028,Polyester Sports Tee,ValuePack Co.,Clothing,Bangladesh,plastic poly bag,100 percent polyester synthetic,
+8901114000035,Recycled Denim Jeans,UrbanBasics,Clothing,India,recycled paper packaging,recycled cotton denim,recycled
+8901114000042,Fast-Fashion Dress,TrendCo,Clothing,China,plastic poly bag,polyester viscose synthetic dye,
+8901114000059,Wool Sweater,NatureFirst,Clothing,Nepal,recyclable cardboard band,responsibly sourced wool,responsibly sourced
+8901114000066,Fair Trade Cotton Socks Pack,EcoThreads,Clothing,India,recyclable paper band,organic cotton,fair trade
+8901115000011,Dish Soap Bottle,ValuePack Co.,Household,India,single-use plastic bottle,synthetic surfactants fragrance,
+8901115000028,Refill Dish Soap Pouch,GreenLeaf Foods,Household,India,recyclable pouch compostable film,plant based surfactants,biodegradable
+8901115000035,Paper Towel Rolls,FreshFields,Household,India,recycled cardboard core plastic wrap,recycled paper,recycled
+8901115000042,Aluminium Foil Roll,ClearWave,Household,India,recyclable cardboard box,aluminium,recyclable
+8901115000059,Single-Use Plastic Cutlery Pack,ValuePack Co.,Household,China,plastic multilayer bag,polypropylene plastic,
+8901115000066,Compostable Bin Bags,NatureFirst,Household,India,compostable pouch,corn starch based bioplastic,compostable
